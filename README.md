@@ -1,10 +1,11 @@
 # DataPipelineMiniProject
 
-beginning with folder only containing 
--`requirements.txt`
--`initcsv.sh`
--`third_party_sales.csv`
--`pipeline.py`...
+beginning with folder only containing:
+- `requirements.txt`
+- `initcsv.sh`
+- `third_party_sales.csv`
+- `pipeline.py`...
+
 running the following:
 ```
 pip3 install -r requirements.txt
