@@ -1,6 +1,6 @@
 # DataPipelineMiniProject
 
-beginning with folder only containing initcsv.sh and third_party_sales.csv...
+beginning with folder only containing `initcsv.sh` and `third_party_sales.csv`...
 run:
 ```
 pip3 install -r requirements.txt
