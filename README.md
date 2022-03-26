@@ -1,13 +1,14 @@
 # DataPipelineMiniProject
 
+beginning with folder only containing initcsv.sh and third_party_sales.csv...
 run:
 ```
 pip3 install -r requirements.txt
-initcsv.sh
+./initcsv.sh
 python pipeline.py
 ```
 
-Program should output:
+Program should output (also found in output.txt):
 ```
 Creating table sales: OK
 Record inserted
